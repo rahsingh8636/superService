@@ -25,6 +25,6 @@ Create a Git repository which includes instructions on how to run the solution.
 # Solution
 
 1) For the solution to be working and running , Run "pwsh Deploy.ps1" at root directory . 
-2) Main reuirements- dotnet v6.0+, Docker daemon running in system to host containers, powershell in the system preinstalled
+2) Main reuirements- dotnet v6.0+(updated this from dotnet 3.0 which is out of support version), Docker daemon running in system to host containers, powershell in the system preinstalled
 2) Deploy.ps1 content (Check requirements like dotnet & Docker + Run automated test + Build image + run container + test the apllication via health check )
 3) DockerFile is created to build image 
