@@ -46,6 +46,8 @@ cd devops
 
 # Run the complete deployment pipeline
 ./Deploy.ps1 
+OR
+pwsh Deploy.ps1
 ```
 
 
